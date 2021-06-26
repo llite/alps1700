@@ -24,6 +24,7 @@ I see no reason this couldn't be adapted for cherry mount switches. In theory th
 | ----------- | ----------- | ----------- |
 | Alps SKCL/SKCM switches       | 81       | [deskthority wiki](https://deskthority.net/wiki/Alps_SKCL/SKCM_series) |
 | Keycaps       | XX       | Up to you |
+| Switch mounting plate       | 1       | [sendcutsend](https://sendcutsend.com/) |
 | Feather 32u4 Bluefruit      | 1       | [adafruit](https://www.adafruit.com/product/2829) |
 | MCP23017 I/O Expander   | 1        | [adafruit](https://www.adafruit.com/product/732) |
 | Through-Hole Resistors - 4.7K   | 3        | [adafruit](https://www.adafruit.com/product/2783) |
