@@ -14,7 +14,7 @@ Case is 3d printed out of Formfutura's [Galaxy titanium](https://www.partsbuilt.
 Keycaps and switches are from an [Apple Extended Keyboard II](https://deskthority.net/wiki/Apple_Extended_Keyboard_II), with 3d-printed caps for space, right-shift and num-pad 0.
 
 
-Firmware is based on [Mike Roberts'](https://github.com/ecopoesis) [NEK type A](https://github.com/qmk/qmk_firmware/tree/master/keyboards/nek_type_a), with a few adjustment to account for the different layout.
+Firmware is based on [Mike Roberts'](https://github.com/ecopoesis) [NEK type A](https://github.com/qmk/qmk_firmware/tree/master/keyboards/nek_type_a), with a few adjustment to account for the different layout. _Note the diodes MUST be wired in row to column layout for the firmware to work._
 
 I see no reason this couldn't be addapted for cherry mount switches. In theory the only different would be the mounting plate.
 
