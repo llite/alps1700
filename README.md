@@ -16,7 +16,7 @@ Keycaps and switches are from an [Apple Extended Keyboard II](https://deskthorit
 
 Firmware is based on [Mike Roberts'](https://github.com/ecopoesis) [NEK type A](https://github.com/qmk/qmk_firmware/tree/master/keyboards/nek_type_a), with a few adjustment to account for the different layout. _Note the diodes MUST be wired in row to column layout for the firmware to work._
 
-I see no reason this couldn't be addapted for cherry mount switches. In theory the only different would be the mounting plate.
+I see no reason this couldn't be adapted for cherry mount switches. In theory the only different would be the mounting plate.
 
 ## Parts list
 
