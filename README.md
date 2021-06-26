@@ -18,7 +18,7 @@ Firmware is based on [Mike Roberts'](https://github.com/ecopoesis) [NEK type A](
 
 I see no reason this couldn't be addapted for cherry mount switches. In theory the only different would be the mounting plate.
 
-Parts list
+##Parts list
 
 | Item      | Amount | link |
 | ----------- | ----------- | ----------- |
