@@ -16,3 +16,26 @@ Keycaps and switches are from an [Apple Extended Keyboard II](https://deskthorit
 
 Firmware is based on [Mike Roberts'](https://github.com/ecopoesis) [NEK type A](https://github.com/qmk/qmk_firmware/tree/master/keyboards/nek_type_a), with a few adjustment to account for the different layout.
 
+
+Parts list
+
+| Item      | Amount | link |
+| ----------- | ----------- | ----------- |
+| Alps SKCL/SKCM switches       | 81       | [deskthority wiki](https://deskthority.net/wiki/Alps_SKCL/SKCM_series) |
+| Keycaps       | XX       | Up to you |
+| Feather 32u4 Bluefruit      | 1       | [adafruit](https://www.adafruit.com/product/2829) |
+| MCP23017 I/O Expander   | 1        | [adafruit](https://www.adafruit.com/product/732) |
+| Through-Hole Resistors - 4.7K   | 3        | [adafruit](https://www.adafruit.com/product/2783) |
+| 1N4148 Diode    | 81         | [adafruit](https://www.adafruit.com/product/1641) |
+| Perfboard    | 1        | [adafruit](https://www.adafruit.com/product/2670) |
+| Ribbon cable    | 1        | [adafruit](https://www.adafruit.com/product/3890) |
+| Solid core cable    | 1        | [adafruit](https://www.adafruit.com/product/290) |
+| Li-Po battery    | 1        | [adafruit](https://www.adafruit.com/product/2011) |
+| USB-C breakout    | 1        | [adafruit](https://www.adafruit.com/product/4090) |
+| m3 Heat-Set Inserts    | 6        | [adafruit](https://www.adafruit.com/product/4256) |
+| m3x5 bolts    | 6        | [boltdepot](https://www.boltdepot.com/Product-Details.aspx?product=18787) |
+| Filament    | ~300g        | [one I used](https://www.partsbuilt.com/galaxy-pla-titanium-silver-formfutura/) |
+
+
+
+
